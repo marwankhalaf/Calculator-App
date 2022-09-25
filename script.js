@@ -1,3 +1,5 @@
+// start js
+
 let screen = document.getElementById("screen");
 let equal = document.getElementById("equl");
 let buttons = Array.from(document.getElementsByClassName("button")) ;
